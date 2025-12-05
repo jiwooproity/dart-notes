@@ -1,6 +1,6 @@
 # Dart notes
 
-Practice dart language and record to repository
+공부한 다트 언어에 대한 정보를 기록합니다.
 
 ## Dart docs
 
